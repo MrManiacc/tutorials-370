@@ -7,6 +7,5 @@ The general purpose of the tutorials I chose was to learn more about the stack o
 with and I wanted to fully dive into all of the ins and outs of using this stack. 
 
 
-## Tutorial one
-### Backend development, learning mongodb and express
-See [tracker application review](tutorial%20%231/readme.md)
+## Tutorials
+* [Backend development, learning mongodb and express](tutorial%20%231)
