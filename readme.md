@@ -9,4 +9,4 @@ with and I wanted to fully dive into all of the ins and outs of using this stack
 
 ## Tutorial one
 ### Backend development, learning mongodb and express
-See [tracker application review](tutorial%20#1/readme.md)
+See [tracker application review](tutorial%20%231/readme.md)
